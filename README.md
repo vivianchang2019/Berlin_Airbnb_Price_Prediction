@@ -51,4 +51,4 @@ References: <br>
 2. Random Forest Regressor: R^2 =  0.5170
 3. XGBoost Regressor: R^2 = 0.5622
 
-![subsmission result](rhttps://github.com/vivianchang2019/Berlin_Airbnb_Price_Prediction/blob/master/result/Airbnb_feature_importance.JPG?raw=true)
+![subsmission result](https://github.com/vivianchang2019/Berlin_Airbnb_Price_Prediction/blob/master/result/Airbnb_feature_importance.JPG?raw=true)
