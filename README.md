@@ -1,5 +1,6 @@
 # Price Prediction of Berlin Airbnb accommodation
 
+Project created at April 2020.
 
 The datasets contain detailed listings data of current Airbnb listings in Berlin. <br>
 The goal is to predict the Price of accomodation by Summary information. (Regression problem)<br>
@@ -50,4 +51,4 @@ References: <br>
 2. Random Forest Regressor: R^2 =  0.5170
 3. XGBoost Regressor: R^2 = 0.5622
 
-![subsmission result](result/Airbnb_feature_importance.jpg)
+![subsmission result](rhttps://github.com/vivianchang2019/Berlin_Airbnb_Price_Prediction/blob/master/result/Airbnb_feature_importance.JPG?raw=true)
